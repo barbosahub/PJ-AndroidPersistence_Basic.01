@@ -3,59 +3,30 @@ package com.android.retrofit.pj.models;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
+import java.util.List;
+
 public class Cliente {
-    @SerializedName("id")
+    @SerializedName("data")
     @Expose
-    private String id;
-    @SerializedName("cpf")
+    private Data data;
+    @SerializedName("erros")
     @Expose
-    private String cpf;
-    @SerializedName("nome")
-    @Expose
-    private String nome;
-    @SerializedName("email")
-    @Expose
-    private String email;
+    private List<String> erros = null;
 
-    public String getId() {
-        return id;
+    public Data getData() {
+        return data;
     }
 
-    public void setId(String id) {
-        this.id = id;
+    public void setData(Data data) {
+        this.data = data;
     }
 
-    public String getCpf() {
-        return cpf;
+    public List<String> getErros() {
+        return erros;
     }
 
-    public void setCpf(String cpf) {
-        this.cpf = cpf;
+    public void setErros(List<String> erros) {
+        this.erros = erros;
     }
 
-    public String getNome() {
-        return nome;
-    }
-
-    public void setNome(String nome) {
-        this.nome = nome;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
-    }
-
-    @Override
-    public String toString() {
-        return "Cliente{" +
-                "id='" + id + '\'' +
-                ", nome='" + nome + '\'' +
-                ", email=" + email +
-                ", cpf=" + cpf +
-                '}';
-    }
 }
