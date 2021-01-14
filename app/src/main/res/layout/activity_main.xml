@@ -21,6 +21,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Consumindo API"
+                android:textAlignment="center"
                 android:textSize="22sp"
                 android:layout_marginBottom="40dp"
                 />
@@ -29,10 +30,11 @@
             <Spinner
                 android:id="@+id/spinner"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="30dp"/>
 
             <TextView
-                android:id="@+id/txtId"
+                android:id="@+id/txtlvId"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="ID:" />
@@ -43,10 +45,10 @@
                 android:layout_height="wrap_content"
                 android:ems="10"
                 android:inputType="text"
-                android:text="5ff7ac69b59597330741fcab" />
+                android:text="5ffb5790e7e034531c17c426" />
 
             <TextView
-                android:id="@+id/txtName"
+                android:id="@+id/txtlvName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Nome:" />
@@ -60,7 +62,7 @@
                 android:text="Pedro" />
 
             <TextView
-                android:id="@+id/txtMail"
+                android:id="@+id/txtlvMail"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="E-mail:" />
@@ -74,7 +76,7 @@
                 android:text="Pedro@gmail.com" />
 
             <TextView
-                android:id="@+id/txtCpf"
+                android:id="@+id/txtlvCpf"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="CPF:" />
@@ -92,6 +94,28 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Salvar" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:text="Código desenvolvido para fins educativos."
+                android:textAlignment="center"
+                />
+
+            <TextView
+                android:id="@+id/txtApi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="@string/linkApi" />
+            <TextView
+                android:id="@+id/txtGit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="@string/linkGit" />
 
         </LinearLayout>
     </ScrollView>

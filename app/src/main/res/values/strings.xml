@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Retrofit</string>
+    <string-array name="spinner">
+        <item>CREATE</item>
+        <item>READ</item>
+        <item>UPDATE</item>
+        <item>DELETE</item>
+    </string-array>
+
+    <string name="linkApi">
+        <a href="https://apirest-basic.herokuapp.com/swagger-ui.html">Api Swagger</a>
+    </string>
+
+    <string name="linkGit">
+        <a href="https://github.com/barbosahub/PJ-AndroidPersistence_Basic.01">GitHub</a>
+    </string>
+
 </resources>
