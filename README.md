@@ -9,10 +9,10 @@ O desenvolvimento do aplicativo foi um simples CRUD sem tratativas de CPF, E-mai
 </p>
 
 <p align="left">
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/create.jpeg" width="300" alt="Create com retrofit"
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/read.jpeg" width="300" alt="Read com retrofit"
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/update.jpeg" width="300" alt="Update com retrofit"
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/delete.jpeg" width="300" alt="Delete com retrofit"
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/create.jpeg" width="300" alt="Create com retrofit">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/read.jpeg" width="300" alt="Read com retrofit">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/update.jpeg" width="300" alt="Update com retrofit">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/delete.jpeg" width="300" alt="Delete com retrofit">
 </p>
 
 ## Sobre
