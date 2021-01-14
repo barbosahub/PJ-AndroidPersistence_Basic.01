@@ -9,10 +9,10 @@ O desenvolvimento do aplicativo foi um simples CRUD sem tratativas de CPF, E-mai
 </p>
 
 <p align="left">
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/create.jpeg" width="200" alt="Create com retrofit" style=" border: 5px solid #555;">
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/read.jpeg" width="200" alt="Read com retrofit" style=" border: 5px solid #555;>
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/update.jpeg" width="200" alt="Update com retrofit" style=" border: 5px solid #555;>
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/delete.jpeg" width="200" alt="Delete com retrofit" style=" border: 5px solid #555;>
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/create.jpeg" width="200" alt="Create com retrofit" style=" border: 5px solid #555">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/read.jpeg" width="200" alt="Read com retrofit" style=" border: 5px solid #555">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/update.jpeg" width="200" alt="Update com retrofit" style=" border: 5px solid #555">
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/delete.jpeg" width="200" alt="Delete com retrofit" style=" border: 5px solid #555">
 </p>
 
 ## Sobre
