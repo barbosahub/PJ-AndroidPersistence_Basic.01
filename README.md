@@ -1,22 +1,18 @@
-# PJ-AndroidPersistence_Basic.01
-## Descrição do Projeto
-Objetivo do projeto: Persistência de dados no android utilizando API Restful
-
 ## Descrição do Projeto
 <p align="justify"> Objetivo do plano de estudos: Criar um CRUD utilizando a biblioteca Retrofit para consumo de API.
 </p>
 
 ## Utilizando Consultas
 
-```sh
+<p align="justify">
 O desenvolvimento do aplicativo foi um simples CRUD sem tratativas de CPF, E-mail ou dados nulos.
-```
+</p>
 
 <p align="left">
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/create.jpeg" width="350" alt="Consultas com retrofit"
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/read.jpeg" width="350" alt="Consultas com retrofit"
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/update.jpeg" width="350" alt="Consultas com retrofit"
-  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/delete.jpeg" width="350" alt="Consultas com retrofit"
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/create.jpeg" width="300" alt="Create com retrofit"
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/read.jpeg" width="300" alt="Read com retrofit"
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/update.jpeg" width="300" alt="Update com retrofit"
+  <img src="https://github.com/barbosahub/ImageRepository/blob/master/PJ-AndroidPersistence_Basic.01/delete.jpeg" width="300" alt="Delete com retrofit"
 </p>
 
 ## Sobre
